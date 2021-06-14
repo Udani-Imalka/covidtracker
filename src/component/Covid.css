@@ -1,0 +1,92 @@
+.card-1 {
+    background: radial-gradient(#1fe4f5, #3fbafe);
+    
+  }
+
+  .card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    height: 100%;
+  }
+  
+  .card {
+    margin: 10px;
+    padding: 20px;
+    width: 240px;
+    min-height: 200px;
+    display: grid;
+    grid-template-rows: 20px 50px 1fr 50px;
+    border-radius: 10px;
+    box-shadow: 0px 6px 10px rgba(100, 94, 94, 0.89);
+    transition: all 0.5s;
+    height: 18px;
+    transition: width 1s;
+
+  }
+
+  .card__title {
+    grid-row: 3/4;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 50px;
+    text-align: center;
+    font-style: oblique;
+    text-shadow: 5px 5px 10px #000000;
+  }
+  .card__title_a {
+    grid-row: 3/4;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 30px;
+    text-align: center;
+    font-style: oblique;
+    text-shadow: 5px 5px 10px #000000;
+  }
+  .card__icon {
+    grid-row: 2/3;
+    font-size: 30px;
+    text-align: center;
+  }
+  
+
+  .card:hover {
+    box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.4);
+    transform: scale(1.01);
+    width:280px;
+    
+  }
+
+  .card-2 {
+    background: radial-gradient(#fbc1cc, #fa99b2);
+  }
+  
+  .card-3 {
+    background: radial-gradient(#76b2fe, #b69efe);
+  }
+  
+  .card-4 {
+    background: radial-gradient(#60efbc, #58d5c9);
+  }
+  
+  .card-5 {
+    background: radial-gradient(#f588d8, #c0a3e5);
+  }
+
+  .section {
+    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+    text-align: center;
+    font-style: normal;
+    font-size: large;
+    color: seashell;
+    width:100%;
+    height: 100%;
+
+  }
+
+
+  @media (max-width: 1600px) {
+    .card-container {
+      justify-content: center;
+    }
+  }
