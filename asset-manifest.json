@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Udani-Imalka/covidtracker.git/static/css/main.11e2ae96.chunk.css",
+    "main.js": "/Udani-Imalka/covidtracker.git/static/js/main.d50c29d8.chunk.js",
+    "main.js.map": "/Udani-Imalka/covidtracker.git/static/js/main.d50c29d8.chunk.js.map",
+    "runtime-main.js": "/Udani-Imalka/covidtracker.git/static/js/runtime-main.78b42d29.js",
+    "runtime-main.js.map": "/Udani-Imalka/covidtracker.git/static/js/runtime-main.78b42d29.js.map",
+    "static/js/2.e251611f.chunk.js": "/Udani-Imalka/covidtracker.git/static/js/2.e251611f.chunk.js",
+    "static/js/2.e251611f.chunk.js.map": "/Udani-Imalka/covidtracker.git/static/js/2.e251611f.chunk.js.map",
+    "static/js/3.17c95ef6.chunk.js": "/Udani-Imalka/covidtracker.git/static/js/3.17c95ef6.chunk.js",
+    "static/js/3.17c95ef6.chunk.js.map": "/Udani-Imalka/covidtracker.git/static/js/3.17c95ef6.chunk.js.map",
+    "index.html": "/Udani-Imalka/covidtracker.git/index.html",
+    "static/css/main.11e2ae96.chunk.css.map": "/Udani-Imalka/covidtracker.git/static/css/main.11e2ae96.chunk.css.map",
+    "static/js/2.e251611f.chunk.js.LICENSE.txt": "/Udani-Imalka/covidtracker.git/static/js/2.e251611f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78b42d29.js",
+    "static/js/2.e251611f.chunk.js",
+    "static/css/main.11e2ae96.chunk.css",
+    "static/js/main.d50c29d8.chunk.js"
+  ]
+}
